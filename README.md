@@ -10,7 +10,8 @@ If you don’t have a Dynamics 365 Finance environment, please request one using
  
 - Azure Subscription:
 
-If you don’t have access to Azure Subscription, please request one at: azure.microsoft.com/en-us/free
+If you don’t have access to Azure Subscription, please request one at: 
+https://azure.microsoft.com/en-us/free
  
 - Visual Studio (Optional):
 
