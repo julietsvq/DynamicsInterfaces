@@ -19,6 +19,9 @@ https://code.visualstudio.com
 
 **Exercises**
 
+[Exercise. Global Electronic Reporting](https://github.com/julietsvq/DynamicsInterfaces/blob/master/Exercises/Exercise%20-%20Global%20Electronic%20Reporting.pdf)
+
+Global Electronic Reporting exercise.
 
 [Exercise 1. F&O and LogicApps](https://github.com/julietsvq/DynamicsInterfaces/blob/master/Exercises/Exercise%201%20-%20F%26O%20and%20LogicApps.pdf)
 
