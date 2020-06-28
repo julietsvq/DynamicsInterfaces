@@ -1,6 +1,6 @@
 # Dynamics 365 Finance and Dynamics 365 Supply Chain Interfaces workshop
 
-Presentation can be found [here](https://github.com/julietsvq/DynamicsInterfaces/blob/master/Interfaces%20Workshop%20for%20ISVs.pdf)
+Presentation slides can be found [here](https://github.com/julietsvq/DynamicsInterfaces/blob/master/Interfaces%20webinar.pdf)
 
 Exercises for the Dynamics 365 Finance and Dynamics 365 Supply Chain Interfaces workshop:
 
