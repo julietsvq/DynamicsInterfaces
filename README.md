@@ -49,3 +49,8 @@ Create an Event Grid Topic for free-text invoice events triggered in Dynamics 36
 
 Use your own HTTPS endpoint to process events triggered in Dynamics 365 Finance.
 
+
+[Exercise 6. Service endpoints](https://github.com/julietsvq/DynamicsInterfaces/blob/master/Exercises/Exercise%206%20-%20Service%20endpoints.pdf)
+
+Explore the different service endpoints available in Dynamics 365 Finance / Supply Chain.
+
